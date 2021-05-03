@@ -6109,11 +6109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GynNicaCode_Seguridad\\GynNicaCode_Seguridad.csproj",
+      "projectUniqueName": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GynNicaCode_Seguridad\\GynNicaCode_Seguridad.csproj",
       "projectName": "GynNicaCode_Seguridad",
-      "projectPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GynNicaCode_Seguridad\\GynNicaCode_Seguridad.csproj",
+      "projectPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GynNicaCode_Seguridad\\GynNicaCode_Seguridad.csproj",
       "packagesPath": "C:\\Users\\Francisco Rios\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GynNicaCode_Seguridad\\obj\\",
+      "outputPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GynNicaCode_Seguridad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6133,8 +6133,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj"
+            "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj"
             }
           }
         }

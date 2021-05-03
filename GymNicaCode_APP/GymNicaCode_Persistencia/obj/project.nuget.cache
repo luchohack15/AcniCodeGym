@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4si68I7UifFqhilu2hSS1IqnlPNKy7BKbubPdizlgB3IV2tlvw5q3TLV0UQIRGLxNQ0H/TQ5D0VCrj4laid4Ag==",
+  "dgSpecHash": "7fAy1C+GgatQwhDJdtIedl2+ijr4c59/va4yeeZXVrkOymlOQRlwC3MNoiSvWQ1BjwJT4ZkNaemkiN8b7XGwWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",

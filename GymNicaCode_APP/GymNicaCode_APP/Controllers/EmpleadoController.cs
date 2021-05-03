@@ -27,7 +27,7 @@ namespace GymNicaCode_APP.Controllers
             return await Mediator.Send(new Const_ListaEmpleado.ListaEmpleado());
         }
         [HttpGet("{id}") ]
-        public async Task<ActionResult<Empleado>> getEmpleadoxId(Guid id)
+        public async Task<ActionResult<EmpleadoDto>> getEmpleadoxId(Guid id)
         {
             return await Mediator.Send(new Const_EmpleadoXid.EmpleadoXid{Id = id});
         }
@@ -37,12 +37,18 @@ namespace GymNicaCode_APP.Controllers
            return await Mediator.Send(data);
         }
         [HttpPut("{id}")]
-        public async Task<ActionResult<Unit>> UpdateEmpleado(int id, UpdateEmpleado.Update data)
+        public async Task<ActionResult<Unit>> UpdateEmpleado(Guid id, UpdateEmpleado.Update data)
         {
             data.IdEmpleado = id;
             return await Mediator.Send(data);
         }
-  
 
+        [HttpPut("ElminarEmpleado/{IdEmpleado}")]
+        
+        public async Task<ActionResult<Unit>> EliminarEmpleado(Guid idEmpleado, EliminarEmpleado.Eliminar data)
+        {
+            data.IdEmpleado = idEmpleado;
+            return await Mediator.Send(data);
+        }
     }
 }

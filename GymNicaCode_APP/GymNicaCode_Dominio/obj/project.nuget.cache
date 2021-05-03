@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YtJnLvu4m4TnBFv95/CaE4wNB9qrLTSVA6vzVK6hlnolBTQyh9NNbK9pwqZlF1ZqEJnIVk/medalhIrzIKGThg==",
+  "dgSpecHash": "MIk5x+6VW+Ir1M9pGgzaYRJYHrt7/AWsMZRubCT3NL1GW8I+vdo+mKksyHJYxg0ZvxHg44TGHp6Y00pWPT7sbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.4\\microsoft.aspnetcore.cryptography.keyderivation.5.0.4.nupkg.sha512",

@@ -16,7 +16,7 @@ namespace GymNicaCode_Aplicacion.Empleados
     {
         public class Update :IRequest
          {
-            public int IdEmpleado { get; set; }
+            public Guid IdEmpleado { get; set; }
             public string Nombres { get; set; }
             public string Apellidos { get; set; }
             public int? Telefono { get; set; }

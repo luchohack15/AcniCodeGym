@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V1YQA9wpl5kd81bTF79W+rj0kalyojl+2k8swObzqsGaiJCHqhbJZFxRnCJiw2xBIvaWDygTbnlKD8vEknSVNg==",
+  "dgSpecHash": "6VO7xhEpzuf7tWLzWnWOjGar2vSCOXjzMbz3bU3qMARSUKRrLTPYqw5bjE2ikEu3VrNqt3RLaLxoPRdDxBzfFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GynNicaCode_Seguridad\\GynNicaCode_Seguridad.csproj",
+  "projectFilePath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GynNicaCode_Seguridad\\GynNicaCode_Seguridad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\5.0.1\\automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",

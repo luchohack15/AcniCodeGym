@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj": {}
+    "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj": {
+    "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj",
         "projectName": "GymNicaCode_Aplicacion",
-        "projectPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj",
+        "projectPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj",
         "packagesPath": "C:\\Users\\Francisco Rios\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\obj\\",
+        "outputPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj": {
-                "projectPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj"
+              "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj": {
+                "projectPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj"
               },
-              "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj": {
-                "projectPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj"
+              "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj": {
+    "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj",
         "projectName": "GymNicaCode_Dominio",
-        "projectPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj",
+        "projectPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj",
         "packagesPath": "C:\\Users\\Francisco Rios\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj": {
+    "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj",
         "projectName": "GymNicaCode_Persistencia",
-        "projectPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj",
+        "projectPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj",
         "packagesPath": "C:\\Users\\Francisco Rios\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -175,8 +175,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj": {
-                "projectPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj"
+              "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj": {
+                "projectPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj"
               }
             }
           }

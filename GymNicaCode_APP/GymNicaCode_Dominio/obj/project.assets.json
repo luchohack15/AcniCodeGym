@@ -747,11 +747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj",
       "projectName": "GymNicaCode_Dominio",
-      "projectPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj",
+      "projectPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\GymNicaCode_Dominio.csproj",
       "packagesPath": "C:\\Users\\Francisco Rios\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_Dominio\\obj\\",
+      "outputPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

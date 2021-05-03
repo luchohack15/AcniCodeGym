@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oV0YYzFnhrBDgAuGMJLDbcuaoXcE37s0pawyOLeVDlmuE/H+8ttcMdef0FFnYiu9uhdhZoE4VjZkDprlxeANIA==",
+  "dgSpecHash": "5e7BXtTqXd9KlPUdvkHmuJH/OYGLK+wjBjc6hqs087E7cy8nPb/e/WPxqKIsqQ2wzoSJ5ikG6EB5LhNgCaoXhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Francisco Rios\\source\\repos\\GymNicaCode_APP\\GymNicaCode_APP\\GymNicaCode_APP.csproj",
+  "projectFilePath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_APP\\GymNicaCode_APP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\5.0.1\\automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
