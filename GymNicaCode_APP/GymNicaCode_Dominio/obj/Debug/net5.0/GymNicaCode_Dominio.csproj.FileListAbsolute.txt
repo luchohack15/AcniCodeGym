@@ -1,0 +1,12 @@
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\bin\Debug\net5.0\GymNicaCode_Dominio.deps.json
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\bin\Debug\net5.0\GymNicaCode_Dominio.dll
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\bin\Debug\net5.0\ref\GymNicaCode_Dominio.dll
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\bin\Debug\net5.0\GymNicaCode_Dominio.pdb
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\obj\Debug\net5.0\GymNicaCode_Dominio.csprojAssemblyReference.cache
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\obj\Debug\net5.0\GymNicaCode_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\obj\Debug\net5.0\GymNicaCode_Dominio.AssemblyInfoInputs.cache
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\obj\Debug\net5.0\GymNicaCode_Dominio.AssemblyInfo.cs
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\obj\Debug\net5.0\GymNicaCode_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\obj\Debug\net5.0\GymNicaCode_Dominio.dll
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\obj\Debug\net5.0\ref\GymNicaCode_Dominio.dll
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Dominio\obj\Debug\net5.0\GymNicaCode_Dominio.pdb

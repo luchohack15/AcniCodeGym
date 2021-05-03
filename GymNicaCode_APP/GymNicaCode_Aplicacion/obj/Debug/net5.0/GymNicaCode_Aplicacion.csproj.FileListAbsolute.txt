@@ -1,0 +1,17 @@
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Aplicacion.deps.json
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Aplicacion.dll
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\ref\GymNicaCode_Aplicacion.dll
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Aplicacion.pdb
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Dominio.dll
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Persistencia.dll
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Dominio.pdb
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Persistencia.pdb
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.csprojAssemblyReference.cache
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.AssemblyInfo.cs
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.csproj.CopyComplete
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.dll
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\ref\GymNicaCode_Aplicacion.dll
+C:\Users\Francisco Rios\source\repos\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.pdb
