@@ -92,6 +92,7 @@ C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_APP\bin\Debug\net5.0\GymNicaCode_APP.pdb
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_APP\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_APP\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_APP\bin\Debug\net5.0\Dapper.dll
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_APP\bin\Debug\net5.0\FluentValidation.dll
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_APP\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_APP\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll

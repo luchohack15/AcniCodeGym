@@ -9,6 +9,6 @@ namespace GymNicaCode_Aplicacion.Contrato
 {
    public interface IJwtGenerador
     {
-        string CrearToken(Usuario usuario);
+        string CrearToken(Usuario usuario,List<string> roles);
     }
 }

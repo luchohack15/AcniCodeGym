@@ -49,13 +49,15 @@ namespace GymNicaCode_Aplicacion.Seguridad
                     throw new ManejadorExcepcion(HttpStatusCode.Unauthorized);
                 }
                 var query = await _signInManager.CheckPasswordSignInAsync(usuario, request.Password, false);
-        
+                var resultadoRoles = await _userManager.GetRolesAsync(usuario);
+                var listaRoles = new List<string>(resultadoRoles);
                 if (query.Succeeded)
                 {
                     return new UsuarioData
                     {
                         NombreEmpleado = "falta implementar",
-                        Token = _jwtGenerador.CrearToken(usuario),
+                        IdEmpleado = usuario.IdEmpleado,
+                        Token = _jwtGenerador.CrearToken(usuario,listaRoles),
                         UserName = usuario.UserName,
                         Email =usuario.Email,
                         Imagen = null

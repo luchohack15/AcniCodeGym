@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7fAy1C+GgatQwhDJdtIedl2+ijr4c59/va4yeeZXVrkOymlOQRlwC3MNoiSvWQ1BjwJT4ZkNaemkiN8b7XGwWQ==",
+  "dgSpecHash": "EY3qpiw5N12kN4XXOsRwpK78YCNzGLJAA/ehyvsBl/kKIYzfv+3gv2imLVlVucm+1TL9/hfWrXzz99YsJ9w32g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Persistencia\\GymNicaCode_Persistencia.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Francisco Rios\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.4\\microsoft.aspnetcore.cryptography.keyderivation.5.0.4.nupkg.sha512",

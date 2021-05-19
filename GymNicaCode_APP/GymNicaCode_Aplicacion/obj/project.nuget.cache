@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7eP4qwQEL1sNNGWgrNjUdH4Mogj+W4Ug/6DrzqMHVfWhQkYocY7OxVtxc1GDvPwEFnprviCMOrXacTJs0Oh//Q==",
+  "dgSpecHash": "b82zOHtJVrd7uy0nWDLAdSqYbtqN2K5o/syhp6v5dfBzdVgo/IouVoLpd3hhSq7czQk4JmUcFKZmLtfBVFvX9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\5.0.1\\automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Francisco Rios\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.3\\fluentvalidation.aspnetcore.9.5.3.nupkg.sha512",
     "C:\\Users\\Francisco Rios\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.3\\fluentvalidation.dependencyinjectionextensions.9.5.3.nupkg.sha512",

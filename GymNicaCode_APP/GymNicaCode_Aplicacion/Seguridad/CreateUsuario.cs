@@ -78,7 +78,7 @@ namespace GymNicaCode_Aplicacion.Seguridad
                     {
                         UserName = usuario.UserName,
                         Email = usuario.Email,
-                        Token = _jwtGenerador.CrearToken(usuario)
+                        Token = _jwtGenerador.CrearToken(usuario,null)
                     };
                 }
                 throw new Exception("Error al agregar al nuevo Usuario");

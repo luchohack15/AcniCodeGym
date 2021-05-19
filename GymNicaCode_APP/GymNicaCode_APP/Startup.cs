@@ -23,6 +23,9 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using AutoMapper;
 using GymNicaCode_Aplicacion.Seguridad;
+using GymNicaCode_Persistencia.DapperConexion;
+using GymNicaCode_Persistencia.DapperConexion.Producto;
+using GymNicaCode_Persistencia.Paginacion;
 
 namespace GymNicaCode_APP
 {
@@ -42,6 +45,8 @@ namespace GymNicaCode_APP
             {
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
+            services.AddOptions();
+            services.Configure<ConexionConfiguracion>(Configuration.GetSection("ConnectionStrings"));
             services.AddControllers( opt =>
             {
                 var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
@@ -66,6 +71,10 @@ namespace GymNicaCode_APP
 
             var builder = services.AddIdentityCore<Usuario>();
             var identityBuilder = new IdentityBuilder(builder.UserType,builder.Services);
+            //rolManager
+            identityBuilder.AddRoles<IdentityRole>();
+            identityBuilder.AddClaimsPrincipalFactory<UserClaimsPrincipalFactory<Usuario, IdentityRole>>();
+            //fin RolManager
             identityBuilder.AddEntityFrameworkStores<GymNicaCodeContext>();
             identityBuilder.AddSignInManager<SignInManager<Usuario>>();
             services.TryAddSingleton<ISystemClock, SystemClock>();
@@ -88,6 +97,11 @@ namespace GymNicaCode_APP
             services.TryAddScoped<IJwtGenerador, JwtGenerador>();
             services.AddScoped<IUsarioLogueado, UsuarioLogueado>();
             services.AddAutoMapper(typeof(Const_ListaEmpleado.Manejador));
+            //Dapper
+            services.AddTransient<IFactoryConnection, FactoryConnection>();
+            services.AddScoped<IProducto, ProductoRepositorio>();
+            services.AddScoped<IPaginacion, PaginacionRepositorio>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

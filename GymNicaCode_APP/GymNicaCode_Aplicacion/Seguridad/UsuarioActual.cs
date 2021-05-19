@@ -29,13 +29,15 @@ namespace GymNicaCode_Aplicacion.Seguridad
             public async Task<UsuarioData> Handle(UsuarioLogueado request, CancellationToken cancellationToken)
             {
               var usuario = await  _userManager.FindByNameAsync(_usarioLogueado.ObetenerUsuariologueado());
+              var resultadoRoles = await _userManager.GetRolesAsync(usuario);
+              var listaRoles = new List<string>(resultadoRoles);
                 return new UsuarioData
                 {
                     NombreEmpleado = "",
                     IdEmpleado = usuario.IdEmpleado,
                     UserName = usuario.UserName,
                     Email = usuario.Email,
-                    Token = _jwtGenerador.CrearToken(usuario),
+                    Token = _jwtGenerador.CrearToken(usuario,listaRoles),
                     Imagen = null
                 };
             }

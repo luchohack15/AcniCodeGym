@@ -19,12 +19,21 @@ namespace GynNicaCode_Seguridad.TokenSeguridad
         {
             _appSetting = appSettings.Value;
         }
-        public string CrearToken(Usuario usuario)
+        public string CrearToken(Usuario usuario,List<string> roles)
         {
             var claims = new List<Claim>
             {
                 new Claim(JwtRegisteredClaimNames.NameId,usuario.UserName )
             };
+
+            if (roles!= null)
+            {
+                foreach (var rol in roles)
+                {
+                    claims.Add(new Claim(ClaimTypes.Role, rol));
+                }
+            }
+
             var key = Encoding.ASCII.GetBytes(_appSetting.Secreto);
             var credenciales = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature);
             var tokenDescripcion = new SecurityTokenDescriptor

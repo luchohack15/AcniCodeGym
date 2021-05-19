@@ -1,5 +1,6 @@
 ﻿
 using GymNicaCode_Aplicacion.Seguridad;
+using GymNicaCode_Aplicacion.Seguridad.Roles;
 using GymNicaCode_Dominio;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
@@ -30,6 +31,13 @@ namespace GymNicaCode_APP.Controllers
         {
             return await Mediator.Send(new UsuarioActual.UsuarioLogueado());
         }
+
+        [HttpPut]
+        public async Task<ActionResult<UsuarioData>> UsuarioActualizar(UsuarioActualizar.Ejecuta parametros)
+        {
+            return await Mediator.Send(parametros);
+        }
+
     }
 }
  
