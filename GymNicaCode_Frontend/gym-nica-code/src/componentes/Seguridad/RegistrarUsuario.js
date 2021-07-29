@@ -1,21 +1,7 @@
 import { Button, Container, Grid, TextField, Typography } from '@material-ui/core';
 import React from 'react'; 
+import style from '../Tools/Style';
 
-const style = {
-    paper:{
-             marginTop: 8,
-             display : "flex",
-             flexDirection :  "column",
-             alignItems : "center"
-      },
-      from:{
-            width: "100%",
-            marginTop: 20
-      } ,
-      submit : {
-          marginTop : 15
-      }
-};
 
 
 const RegistrarUsuario = () =>{
@@ -25,7 +11,7 @@ const RegistrarUsuario = () =>{
                 <Typography component="h1" variant="h5">
                     Registar Usuario
                 </Typography>
-                <form style={style.from}>
+                <form style={style.form}>
                   <Grid container spacing={2}>
                       <Grid item xs={12} md={6}>
                            <TextField name="nombre" variant="outlined" fullWidth label="Ingrese su nombre"></TextField>
