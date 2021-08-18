@@ -1,11 +1,9 @@
 const style = {
     borde:{
-        backgroundColor: "#000",
+        marginTop: 70
     },
     root: {
         display: 'flex',
-        marginTop: 70,
-        border: 5,
     },
     paper: {
         marginTop: 8,
@@ -24,7 +22,8 @@ const style = {
         marginTop: 5,
         backgroundColor: "#000",
         width: 60,
-        height: 60
+        height:60
+        
     },
     icon: {
         fontSize: 40
@@ -37,13 +36,12 @@ const style = {
         flex: '1 0 auto',
     },
     cover: {
-        width: 500,
+        width: 500
     }
     ,
     img: {
         width: "100%",
-        height:'auto',
-        marginTop: 2
+        height:'100%'
     }
 };
 

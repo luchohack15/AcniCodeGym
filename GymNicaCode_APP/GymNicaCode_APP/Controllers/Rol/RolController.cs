@@ -18,7 +18,7 @@ namespace GymNicaCode_APP.Controllers.Rol
             return await Mediator.Send(data);
         }
         [HttpDelete("EliminarRol")]
-        public async Task<ActionResult<Unit>> Eliminar(RolEliminar.Eliminar data)
+        public async Task<ActionResult<Unit>> Eliminar(RolEliminar.EliminarRol data)
         {
             return await Mediator.Send(data);
         }
@@ -28,20 +28,20 @@ namespace GymNicaCode_APP.Controllers.Rol
             return await Mediator.Send(new ListaDeRoles.ListaRoles());
         }
         [HttpPost("AgregarRolUsuario")]
-        public async Task<ActionResult<Unit>> AgregarRolUsuario(UsuarioRolAgregar.Ejecuta paramtros)
+        public async Task<ActionResult<Unit>> AgregarRolUsuario(UsuarioRolAgregar.CreateAgregarRolUsuario paramtros)
         {
             return await Mediator.Send(paramtros);
         }
 
         [HttpPost("EliminarRolUsuario")]
-        public async Task<ActionResult<Unit>> EliminarRolUsuario(UsuarioRolEliminar.Ejecuta paramtros)
+        public async Task<ActionResult<Unit>> EliminarRolUsuario(UsuarioRolEliminar.DeleteUsuarioRol paramtros)
         {
             return await Mediator.Send(paramtros);
         }
         [HttpGet("{UserName}")]
         public async Task<ActionResult<List<string>>> ObtenerRolUsuario(string userName)
         {
-            return await Mediator.Send(new ObtenerRolesPorUsuario.Ejecuta { Username = userName });
+            return await Mediator.Send(new ObtenerRolesPorUsuario.GetRolesPorUsuario { Username = userName });
         }
     }
 }

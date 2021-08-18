@@ -32,3 +32,20 @@ C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.dll
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\ref\GymNicaCode_Aplicacion.dll
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Aplicacion.deps.json
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Aplicacion.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\ref\GymNicaCode_Aplicacion.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Aplicacion.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Dominio.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Persistencia.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Dominio.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\bin\Debug\net5.0\GymNicaCode_Persistencia.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.AssemblyInfo.cs
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.csproj.CopyComplete
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\ref\GymNicaCode_Aplicacion.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Aplicacion\obj\Debug\net5.0\GymNicaCode_Aplicacion.pdb

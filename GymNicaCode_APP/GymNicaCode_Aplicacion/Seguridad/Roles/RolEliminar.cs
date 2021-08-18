@@ -14,25 +14,25 @@ namespace GymNicaCode_Aplicacion.Seguridad.Roles
 {
   public  class RolEliminar
     {
-        public class Eliminar : IRequest
+        public class EliminarRol : IRequest
         {
             public string Nombre { get; set; }
         }
-        public class ValidarRol : AbstractValidator<Eliminar>
+        public class ValidarRol : AbstractValidator<EliminarRol>
         {
             public ValidarRol()
             {
                 RuleFor(x => x.Nombre).NotEmpty();
             }
         }
-        public class Manejador : IRequestHandler<Eliminar>
+        public class Manejador : IRequestHandler<EliminarRol>
         {
             private readonly RoleManager<IdentityRole> _roleManager;
             public Manejador (RoleManager<IdentityRole> roleManager)
             {
                 _roleManager = roleManager;
             }
-            public async Task<Unit> Handle(Eliminar request, CancellationToken cancellationToken)
+            public async Task<Unit> Handle(EliminarRol request, CancellationToken cancellationToken)
             {
                 var role = await _roleManager.FindByNameAsync(request.Nombre);
                 if (role== null)

@@ -15,12 +15,12 @@ namespace GymNicaCode_Aplicacion.Seguridad.Roles
 {
     public class UsuarioRolEliminar
     {
-        public class Ejecuta : IRequest
+        public class DeleteUsuarioRol : IRequest
         {
             public string Username { get; set; }
             public string RolNombre { get; set; }
         }
-        public class EjecutaValidador : AbstractValidator<Ejecuta>
+        public class EjecutaValidador : AbstractValidator<DeleteUsuarioRol>
         {
             public EjecutaValidador()
             {
@@ -28,7 +28,7 @@ namespace GymNicaCode_Aplicacion.Seguridad.Roles
                 RuleFor(x => x.RolNombre).NotEmpty();
             }
         } 
-        public class Manejador : IRequestHandler<Ejecuta>
+        public class Manejador : IRequestHandler<DeleteUsuarioRol>
         {
             private readonly UserManager<Usuario> _userManager;
 
@@ -39,7 +39,7 @@ namespace GymNicaCode_Aplicacion.Seguridad.Roles
                 _userManager = userManager;
                 _roleManager = roleManager;
             }
-            public async Task<Unit> Handle(Ejecuta request, CancellationToken cancellationToken)
+            public async Task<Unit> Handle(DeleteUsuarioRol request, CancellationToken cancellationToken)
             {
                 var role = await _roleManager.FindByNameAsync(request.RolNombre);
                 if (role == null)

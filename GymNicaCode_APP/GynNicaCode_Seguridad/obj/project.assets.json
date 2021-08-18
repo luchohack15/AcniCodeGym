@@ -1660,10 +1660,7 @@
         },
         "runtime": {
           "bin/placeholder/GymNicaCode_Aplicacion.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "GymNicaCode_Dominio/1.0.0": {
         "type": "project",
@@ -6130,23 +6127,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Francisco Rios\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Francisco\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GynNicaCode_Seguridad\\GynNicaCode_Seguridad.csproj",
+      "projectUniqueName": "C:\\Users\\Francisco\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GynNicaCode_Seguridad\\GynNicaCode_Seguridad.csproj",
       "projectName": "GynNicaCode_Seguridad",
-      "projectPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GynNicaCode_Seguridad\\GynNicaCode_Seguridad.csproj",
-      "packagesPath": "C:\\Users\\Francisco Rios\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GynNicaCode_Seguridad\\obj\\",
+      "projectPath": "C:\\Users\\Francisco\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GynNicaCode_Seguridad\\GynNicaCode_Seguridad.csproj",
+      "packagesPath": "C:\\Users\\Francisco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Francisco\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GynNicaCode_Seguridad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Francisco Rios\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Francisco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6160,8 +6158,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\Francisco Rios\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj"
+            "C:\\Users\\Francisco\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\Francisco\\Documents\\GitHub\\AcniCodeGym\\GymNicaCode_APP\\GymNicaCode_Aplicacion\\GymNicaCode_Aplicacion.csproj"
             }
           }
         }
@@ -6192,14 +6190,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

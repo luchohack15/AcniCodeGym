@@ -17,12 +17,12 @@ namespace GymNicaCode_Aplicacion.Seguridad
 {
   public  class Login
     {
-        public class Ejecuta : IRequest<UsuarioData>
+        public class IniciarSesion : IRequest<UsuarioData>
         {
             public string Email { get; set; }
             public string Password { get; set; }
         }
-        public class Validacion : AbstractValidator<Ejecuta>
+        public class Validacion : AbstractValidator<IniciarSesion>
         {
             public Validacion()
             {
@@ -30,7 +30,7 @@ namespace GymNicaCode_Aplicacion.Seguridad
                 RuleFor(x => x.Password).NotEmpty();
             }
         }
-        public class Manejador : IRequestHandler<Ejecuta, UsuarioData>
+        public class Manejador : IRequestHandler<IniciarSesion, UsuarioData>
         {
             private readonly UserManager<Usuario> _userManager;
             private readonly SignInManager<Usuario> _signInManager;
@@ -41,7 +41,7 @@ namespace GymNicaCode_Aplicacion.Seguridad
                 _signInManager = signInManager;
                 _jwtGenerador = jwtGenerador;
             }
-            public async Task<UsuarioData> Handle(Ejecuta request, CancellationToken cancellationToken)
+            public async Task<UsuarioData> Handle(IniciarSesion request, CancellationToken cancellationToken)
             {
                 var usuario = await _userManager.FindByEmailAsync(request.Email);
                 if (usuario == null)

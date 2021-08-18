@@ -36,3 +36,22 @@ C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\GynNicaCode_Seguridad.dll
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\ref\GynNicaCode_Seguridad.dll
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\GynNicaCode_Seguridad.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\bin\Debug\net5.0\GynNicaCode_Seguridad.deps.json
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\bin\Debug\net5.0\GynNicaCode_Seguridad.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\bin\Debug\net5.0\ref\GynNicaCode_Seguridad.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\bin\Debug\net5.0\GynNicaCode_Seguridad.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\bin\Debug\net5.0\GymNicaCode_Aplicacion.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\bin\Debug\net5.0\GymNicaCode_Dominio.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\bin\Debug\net5.0\GymNicaCode_Persistencia.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\bin\Debug\net5.0\GymNicaCode_Aplicacion.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\bin\Debug\net5.0\GymNicaCode_Dominio.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\bin\Debug\net5.0\GymNicaCode_Persistencia.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\GynNicaCode_Seguridad.csproj.AssemblyReference.cache
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\GynNicaCode_Seguridad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\GynNicaCode_Seguridad.AssemblyInfoInputs.cache
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\GynNicaCode_Seguridad.AssemblyInfo.cs
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\GynNicaCode_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\GynNicaCode_Seguridad.csproj.CopyComplete
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\GynNicaCode_Seguridad.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\ref\GynNicaCode_Seguridad.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GynNicaCode_Seguridad\obj\Debug\net5.0\GynNicaCode_Seguridad.pdb

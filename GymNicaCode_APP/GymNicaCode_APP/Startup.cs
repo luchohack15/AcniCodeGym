@@ -41,6 +41,11 @@ namespace GymNicaCode_APP
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddCors(o => o.AddPolicy("corsApp", builder =>
+            {
+                builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+            }));
             services.AddDbContext<GymNicaCodeContext>(options =>
             {
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
@@ -108,6 +113,7 @@ namespace GymNicaCode_APP
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
 
+            app.UseCors("corsApp");
             app.UseMiddleware<ManejadorErrorMiddleware>();
             if (env.IsDevelopment())  
             {

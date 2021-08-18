@@ -16,7 +16,7 @@ namespace GymNicaCode_APP.Controllers
     public class UsuarioController : MyControllerBase
     {
         [HttpPost("login")]
-        public async Task<ActionResult<UsuarioData>> Login([FromBody] Login.Ejecuta parametros)
+        public async Task<ActionResult<UsuarioData>> Login([FromBody] Login.IniciarSesion parametros)
         {
             return await Mediator.Send(parametros);
         }
@@ -33,7 +33,7 @@ namespace GymNicaCode_APP.Controllers
         }
 
         [HttpPut]
-        public async Task<ActionResult<UsuarioData>> UsuarioActualizar(UsuarioActualizar.Ejecuta parametros)
+        public async Task<ActionResult<UsuarioData>> UsuarioActualizar(UsuarioActualizar.UpdateUsuario parametros)
         {
             return await Mediator.Send(parametros);
         }

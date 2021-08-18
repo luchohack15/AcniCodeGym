@@ -34,3 +34,21 @@ C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\ref\GymNicaCode_Persistencia.dll
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\GymNicaCode_Persistencia.pdb
 C:\Users\Francisco Rios\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\GymNicaCode_Persistencia.genruntimeconfig.cache
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\bin\Debug\net5.0\GymNicaCode_Persistencia.deps.json
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\bin\Debug\net5.0\GymNicaCode_Persistencia.runtimeconfig.json
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\bin\Debug\net5.0\GymNicaCode_Persistencia.runtimeconfig.dev.json
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\bin\Debug\net5.0\GymNicaCode_Persistencia.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\bin\Debug\net5.0\ref\GymNicaCode_Persistencia.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\bin\Debug\net5.0\GymNicaCode_Persistencia.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\bin\Debug\net5.0\GymNicaCode_Dominio.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\bin\Debug\net5.0\GymNicaCode_Dominio.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\GymNicaCode_Persistencia.csproj.AssemblyReference.cache
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\GymNicaCode_Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\GymNicaCode_Persistencia.AssemblyInfoInputs.cache
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\GymNicaCode_Persistencia.AssemblyInfo.cs
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\GymNicaCode_Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\GymNicaCode_Persistencia.csproj.CopyComplete
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\GymNicaCode_Persistencia.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\ref\GymNicaCode_Persistencia.dll
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\GymNicaCode_Persistencia.pdb
+C:\Users\Francisco\Documents\GitHub\AcniCodeGym\GymNicaCode_APP\GymNicaCode_Persistencia\obj\Debug\net5.0\GymNicaCode_Persistencia.genruntimeconfig.cache

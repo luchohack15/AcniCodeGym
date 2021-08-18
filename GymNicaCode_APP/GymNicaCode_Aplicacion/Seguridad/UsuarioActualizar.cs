@@ -18,7 +18,7 @@ namespace GymNicaCode_Aplicacion.Seguridad
 {
     public class UsuarioActualizar
     {
-        public class Ejecuta : IRequest<UsuarioData>
+        public class UpdateUsuario : IRequest<UsuarioData>
         {
             public Guid IdEmpleado { get; set; }
             public string Email { get; set; }
@@ -26,7 +26,7 @@ namespace GymNicaCode_Aplicacion.Seguridad
             public string Password { get; set; }
         }
 
-        public class EjecutaValidador : AbstractValidator<Ejecuta>
+        public class EjecutaValidador : AbstractValidator<UpdateUsuario>
         {
             public EjecutaValidador()
             {
@@ -36,7 +36,7 @@ namespace GymNicaCode_Aplicacion.Seguridad
                 RuleFor(x => x.Password).NotEmpty();
             }
         }
-        public class Manejador : IRequestHandler<Ejecuta, UsuarioData>
+        public class Manejador : IRequestHandler<UpdateUsuario, UsuarioData>
         {
             private readonly GymNicaCodeContext _context;
             private readonly UserManager<Usuario> _userManager;
@@ -49,7 +49,7 @@ namespace GymNicaCode_Aplicacion.Seguridad
                 _jwtGenerador = jwtGenerador;
                 _passwordHasher = passwordHasher; 
             }
-            public async Task<UsuarioData> Handle(Ejecuta request, CancellationToken cancellationToken)
+            public async Task<UsuarioData> Handle(UpdateUsuario request, CancellationToken cancellationToken)
             {
                 var usuarioId = await _userManager.FindByNameAsync(request.UserName);
                 if (usuarioId == null)
