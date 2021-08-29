@@ -60,12 +60,16 @@ namespace GymNicaCode_APP
             services.AddMediatR(typeof(Const_ListaEmpleado.Manejador).Assembly);
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "GymNicaCode_APP", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Title = "GymNicaCode_APP",
+                    Version = "v1"
+                });
                 // To Enable authorization using Swagger (JWT)  
                 c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
                 {
                     Name = "Authorization",
-                    Type = SecuritySchemeType.ApiKey,
+                    Type = SecuritySchemeType.Http,
                     Scheme = "Bearer",
                     BearerFormat = "JWT",
                     In = ParameterLocation.Header,
@@ -73,6 +77,7 @@ namespace GymNicaCode_APP
                 });
 
             });
+
 
             var builder = services.AddIdentityCore<Usuario>();
             var identityBuilder = new IdentityBuilder(builder.UserType,builder.Services);
